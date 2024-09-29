@@ -14,8 +14,6 @@ dependencies:
   flutter_html: ^3.0.0-alpha.6
   flutter_html_audio: ^3.0.0-alpha.4
   flutter_html_iframe: ^3.0.0-alpha.4
-  flutter_html_math:
-    path: ../../packages/flutter_html_math
   flutter_html_svg: ^3.0.0-alpha.4
   flutter_html_table: ^3.0.0-alpha.4
   flutter_html_video: ^3.0.0-alpha.5
